@@ -8,4 +8,5 @@ def pagar(x):
   x=b+(distancia(x)*1.84)
   return x
 print pagar(d), "pesos"
+#Luis Manuel Garcia Valdivia
 

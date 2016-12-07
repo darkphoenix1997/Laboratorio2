@@ -9,4 +9,5 @@ def hipotenusa(x,y):
     hipotenusa=math.sqrt(x**2+y**2)
     print hipotenusa
 print hipotenusa(x,y), "Es tu hipotenusa"
+#Luis Manuel Garcia Valdivia
 

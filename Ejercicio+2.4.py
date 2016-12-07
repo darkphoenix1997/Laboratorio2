@@ -45,4 +45,5 @@ def imprime(x,y):
       print x[i],",",y[i]
 coordenadas(n,l,inclinacion,x,y)
 imprime(x,y)
+#Luis Manuel Garcia Valdivia
 
